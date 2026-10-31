@@ -1,7 +1,0 @@
-:HL["/_next/static/chunks/0dphpa2fu8i4m.css","style"]
-:HL["/_next/static/media/archivo_400-s.p.3kqfwi6-1cwie.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/archivo_600-s.p.0i3g6ep-39wiq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/archivo_wide_800-s.p.3_o_d9vdnsfdq.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/jetbrains_mono_500.p.1i7d1s9i-gqop.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"r8vysoKbYsWVkcbUpKDty","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
